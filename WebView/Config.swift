@@ -17,8 +17,8 @@ var purchasecode = "xxxxxx-xxxxxx-xxxxxx-xxxxxx-xxxxxx"
 // *** Your Website ***
 
 // 4. Enter your website details here:
-var host = "pgoldapp.com/android/" //Set your domain host without http:// or https:// prefixes and without any subdomain like "www."
-var webviewurl = "https://pgoldapp.com/android/" //Set your full web app/website URL including http:// or https:// prefix and including subdomains if they are in your URL, like "www.", for example
+var host = "abokitrade.com/api/" //Set your domain host without http:// or https:// prefixes and without any subdomain like "www."
+var webviewurl = "https://abokitrade.com/api/" //Set your full web app/website URL including http:// or https:// prefix and including subdomains if they are in your URL, like "www.", for example
 
 // 5. You are all done! Enjoy your app! :-)
 
