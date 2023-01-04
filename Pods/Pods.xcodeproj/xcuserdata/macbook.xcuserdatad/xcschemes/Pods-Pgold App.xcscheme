@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FCDE28BC1280FEFBD24EF6CBBC5254A8"
-               BuildableName = "Pods_WebViewGold.framework"
-               BlueprintName = "Pods-WebViewGold"
+               BlueprintIdentifier = "FCECF6D2762DF50EC78109361CE62E50"
+               BuildableName = "Pods_Pgold_App.framework"
+               BlueprintName = "Pods-Pgold App"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

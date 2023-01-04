@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>451835566600-635sabrekfqvtn36ug8ib2oeeu7qbtu2.apps.googleusercontent.com</string>
+	<string>451835566600-5j5241lue5d0f7gotlujp2r8mhi7onhu.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.451835566600-635sabrekfqvtn36ug8ib2oeeu7qbtu2</string>
+	<string>com.googleusercontent.apps.451835566600-5j5241lue5d0f7gotlujp2r8mhi7onhu</string>
 	<key>API_KEY</key>
 	<string>AIzaSyDP9iiAHDQoIKZGYsl7qfqrk6qcwB3BYmw</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.pgold</string>
+	<string>com.rinnas.pgold</string>
 	<key>PROJECT_ID</key>
 	<string>pgold-ios</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:451835566600:ios:cc298ff73e81bc0f73cfbd</string>
+	<string>1:451835566600:ios:57e0c98fba26766d73cfbd</string>
 </dict>
 </plist>

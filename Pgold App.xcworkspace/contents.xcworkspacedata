@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/symits/Downloads/codecanyon-10202150-ios-webviewgold-urlhtml-to-ios-app-push-messages/WebViewGold_iOS_11.2/XcodeSourceCode/Pgold App.xcodeproj">
+      location = "group:Pods/Pods.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Pods/Pods.xcodeproj">
+      location = "group:Pgold App.xcodeproj">
    </FileRef>
 </Workspace>

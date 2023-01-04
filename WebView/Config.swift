@@ -62,11 +62,11 @@ var preventoverscroll = true  //Set to "true" to remove WKWebView bounce animati
 
 //Pull to Refresh
 
-var pulltorefresh = false // Set to "true" to enable pull to refresh. Note that to enable this feature, 'preventoverscroll' needs to be set to "false".
+var pulltorefresh = true // Set to "true" to enable pull to refresh. Note that to enable this feature, 'preventoverscroll' needs to be set to "false".
 
 var pulltorefresh_loadingsigncolour_lightmode = #colorLiteral(red: 0.501960814, green: 0.501960814, blue: 0.501960814, alpha: 1) //Set the colour of the pull to refresh loading sign in light mode
 
-var pulltorefresh_backgroundcolour_lightmode = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1) //Set the colour of the pull to refresh background in light mode
+var pulltorefresh_backgroundcolour_lightmode = #colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1) //Set the colour of the pull to refresh background in light mode
 
 var pulltorefresh_loadingsigncolour_darkmode = #colorLiteral(red: 0.501960814, green: 0.501960814, blue: 0.501960814, alpha: 1) //Set the colour of the pull to refresh loading sign in dark mode; requires iOS 13 or higher
 
@@ -86,7 +86,7 @@ var google_login_helper_triggers:[String] = [] //Define the URL prefixes that lo
 var facebook_login_helper_triggers:[String] = [] //Define the URL prefixes that load during Facebook login for your website; acts as a trigger for the helper; Example: ["https://m.facebook.com", "https://www.facebook.com"]
 
 //"First Run" Alert Box
-var activatefirstrundialog = true  //Set to "true" to activate the "First run" dialog
+var activatefirstrundialog = false  //Set to "true" to activate the "First run" dialog
 
 var firstrunmessagetitle = "Welcome!"  //Set the title label of the "First run" dialog
 
