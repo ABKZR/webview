@@ -62,8 +62,8 @@
 	<string>Adding your desired picture to your Photos library</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Processing your chosen picture for additional use in the app</string>
-	<!-- <key>NSUserTrackingUsageDescription</key>
-	<string>Tracking is requested only for delivering personal notifications and accessing your personal account data. Moreover, it may be used to deliver personalized ads to you. This app will be functional regardless of which privacy option is chosen.</string> -->
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Tracking is requested only for delivering personal notifications and accessing your personal account data. Moreover, it may be used to deliver personalized ads to you. This app will be functional regardless of which privacy option is chosen.</string>
 	<key>OneSignal_suppress_launch_urls</key>
 	<true/>
 	<key>UIBackgroundModes</key>
