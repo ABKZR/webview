@@ -122,7 +122,7 @@ var becomefacebookfriendsyes = "Yes" //Set the text label of the "Yes" button of
 
 var becomefacebookfriendsno = "No" //Set the text label of the "No" button of the "Follow on Facebook" dialog
 
-var becomefacebookfriendsurl = "https://pgoldapp.com/app/about" //Set the URL of your Facebook page
+var becomefacebookfriendsurl = "https://abokitrade.com/api/" //Set the URL of your Facebook page
 
 
 //Image Downloader API
@@ -215,7 +215,7 @@ static let iapexpiredurl = "https://www.yahoo.com/" //Default In-App Subscriptio
 
 //OneSignal Push Configuration
     
-static let oneSignalID = "71416e28-2bfe-4f8c-983e-380fb2da953a"; //Enter your OneSignal App ID here
+static let oneSignalID = "c80c9c97-39a4-4a16-9bff-e297a6c1019a"; //Enter your OneSignal App ID here
 
 static let kPushEnabled         = true; //Set to true to activate the OneSignal push functionality (set oneSignalID first)
 
