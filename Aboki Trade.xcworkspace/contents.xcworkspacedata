@@ -5,6 +5,6 @@
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Pgold App.xcodeproj">
+      location = "group:/Users/macbook/Downloads/codecanyon-10202150-ios-webviewgold-urlhtml-to-ios-app-push-messages/WebViewGold_iOS_11.2/XcodeSourceCode/Aboki Trade.xcodeproj">
    </FileRef>
 </Workspace>

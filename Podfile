@@ -11,11 +11,11 @@ end
 
 
 
-target 'Pgold App' do
+target 'Aboki Trade' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Pgold App
+  # Pods for Aboki Trade
   pod 'OneSignalXCFramework', '>= 3.0.0', '< 4.0'
   pod 'Google-Mobile-Ads-SDK', '< 8.0'
   pod 'Firebase/Core', '6.34.0'
